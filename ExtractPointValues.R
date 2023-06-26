@@ -1,5 +1,5 @@
 #*******************************************#
-# NCDF to GeoTiff conversion
+# Extract corresponding point value
 #
 # created by: Dr. Usman Mazhar
 #             usmanmazhargeo@outlook.com

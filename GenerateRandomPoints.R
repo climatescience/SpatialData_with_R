@@ -1,5 +1,5 @@
 #*******************************************#
-# NCDF to GeoTiff conversion
+# Generate Random Points using a Shapefile
 #
 # created by: Dr. Usman Mazhar
 #             usmanmazhargeo@outlook.com

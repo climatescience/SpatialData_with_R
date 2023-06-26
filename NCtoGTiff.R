@@ -9,7 +9,7 @@ library(ncdf4)
 library(sp)
 library(raster)
 
-mypath = "C:/Users/usman/Desktop/ERA/"
+mypath = "D:/test/"
 setwd(mypath)
 
 

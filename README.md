@@ -1,4 +1,4 @@
-# Spatial-Data
+# Spatial Data using R
 This repository contains open-source R-codes regarding pre-processing and processing of spatial data. 
-For detail description, Please visit "Introduction" file.
+For a detailed description, Please visit the "Introduction" file.
 Thanks
